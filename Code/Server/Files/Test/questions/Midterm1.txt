@@ -1,0 +1,232 @@
+1. Which transport layer protocol is connection oriented?
+a. TCP
+b. UDP
+
+2. Format of data is called _____.
+a. Syntax
+b. Struck
+c. Semantic
+d. none of the above
+
+3. IPv6 address contains ______ bits.
+a. 128
+b. 32
+c. 16
+d. none of the above
+
+4. IP addresses divided into _____ classes.
+a. 2
+b. 5
+c. 1
+d. 10
+
+5. Ping uses ____ protocol.
+a. TCP
+b. ICMP
+c. UDP
+d. none of the above
+
+6. BGP is _____ protocol.
+a. path vector
+b. link state
+c. distance vector
+d. one of the above
+
+7. IPv4 address consist of which of the following addresses?
+a. Network address
+b. host address
+c. Both (a) and (b)
+d. none of the above
+
+8. TCP/IP is also known as _____ model.
+a. OSI
+b. UDP
+c. TCP
+d. none of the above
+
+8. How many layers are present in OSI layer?
+a. 7
+b. 1
+c. 5
+d. 15
+
+10.Router belongs to which OSI layer?
+a. layer 1
+b. layer 3
+c. layer 5
+d. layer 7
+
+1. Which transport layer protocol is connection oriented?
+a. TCP
+b. UDP
+
+2. Format of data is called _____.
+a. Syntax
+b. Struck
+c. Semantic
+d. none of the above
+
+3. IPv6 address contains ______ bits.
+a. 128
+b. 32
+c. 16
+d. none of the above
+
+4. IP addresses divided into _____ classes.
+a. 2
+b. 5
+c. 1
+d. 10
+
+5. Ping uses ____ protocol.
+a. TCP
+b. ICMP
+c. UDP
+d. none of the above
+
+6. BGP is _____ protocol.
+a. path vector
+b. link state
+c. distance vector
+d. one of the above
+
+7. IPv4 address consist of which of the following addresses?
+a. Network address
+b. host address
+c. Both (a) and (b)
+d. none of the above
+
+8. TCP/IP is also known as _____ model.
+a. OSI
+b. UDP
+c. TCP
+d. none of the above
+
+8. How many layers are present in OSI layer?
+a. 7
+b. 1
+c. 5
+d. 15
+
+10.Router belongs to which OSI layer?
+a. layer 1
+b. layer 3
+c. layer 5
+d. layer 7
+
+1. Which transport layer protocol is connection oriented?
+a. TCP
+b. UDP
+
+2. Format of data is called _____.
+a. Syntax
+b. Struck
+c. Semantic
+d. none of the above
+
+3. IPv6 address contains ______ bits.
+a. 128
+b. 32
+c. 16
+d. none of the above
+
+4. IP addresses divided into _____ classes.
+a. 2
+b. 5
+c. 1
+d. 10
+
+5. Ping uses ____ protocol.
+a. TCP
+b. ICMP
+c. UDP
+d. none of the above
+
+6. BGP is _____ protocol.
+a. path vector
+b. link state
+c. distance vector
+d. one of the above
+
+7. IPv4 address consist of which of the following addresses?
+a. Network address
+b. host address
+c. Both (a) and (b)
+d. none of the above
+
+8. TCP/IP is also known as _____ model.
+a. OSI
+b. UDP
+c. TCP
+d. none of the above
+
+8. How many layers are present in OSI layer?
+a. 7
+b. 1
+c. 5
+d. 15
+
+10.Router belongs to which OSI layer?
+a. layer 1
+b. layer 3
+c. layer 5
+d. layer 7
+
+1. Which transport layer protocol is connection oriented?
+a. TCP
+b. UDP
+
+2. Format of data is called _____.
+a. Syntax
+b. Struck
+c. Semantic
+d. none of the above
+
+3. IPv6 address contains ______ bits.
+a. 128
+b. 32
+c. 16
+d. none of the above
+
+4. IP addresses divided into _____ classes.
+a. 2
+b. 5
+c. 1
+d. 10
+
+5. Ping uses ____ protocol.
+a. TCP
+b. ICMP
+c. UDP
+d. none of the above
+
+6. BGP is _____ protocol.
+a. path vector
+b. link state
+c. distance vector
+d. one of the above
+
+7. IPv4 address consist of which of the following addresses?
+a. Network address
+b. host address
+c. Both (a) and (b)
+d. none of the above
+
+8. TCP/IP is also known as _____ model.
+a. OSI
+b. UDP
+c. TCP
+d. none of the above
+
+8. How many layers are present in OSI layer?
+a. 7
+b. 1
+c. 5
+d. 15
+
+10.Router belongs to which OSI layer?
+a. layer 1
+b. layer 3
+c. layer 5
+d. layer 7
+
